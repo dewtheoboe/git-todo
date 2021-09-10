@@ -1,5 +1,6 @@
 # My Git Todo
 
-- Clean the kitchen
 - Braid your hair
+- Refill water
+- Recycle can
 - Pet Blue (the cat)
